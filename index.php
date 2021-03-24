@@ -31,9 +31,7 @@
                 require_once 'view/capitulo3.php';
                 break;
             }
-            case 'cap4':{
-                require_once 'view/capitulo4.php';
-                break;
+        
             }default:{
                 require_once 'view/defaul.php';
                 break;
